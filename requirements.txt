@@ -1,0 +1,10 @@
+streamlit==1.29.0
+pandas==2.1.1
+plotly==5.15.0
+numpy==1.24.3
+wordcloud==1.9.2
+matplotlib==3.7.2
+pyngrok==7.0.0  # Only if you need ngrok functionality
+python-dateutil==2.8.2
+scipy==1.11.2   # Required for wordcloud
+Pillow==10.0.0  # Required for wordcloud image processing
